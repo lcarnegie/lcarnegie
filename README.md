@@ -4,6 +4,6 @@ I am a UX designer and a third year Bachelor of Information (B.I.) student at th
 
 🈂️ Languages: R, Python, Java, JavaScript, Vue.js, HTML/CSS
 
-🖌️ Check out my portfolio at: [lucacarnegie.super.site](lcarnegie.super.site)
+🖌️ Check out my portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
 
 
