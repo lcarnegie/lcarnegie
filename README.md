@@ -1,4 +1,4 @@
-### Hi there! My name is Luca Carnegie. 
+### Hi! Bonjour! Hola! Ciao! My name is Luca Carnegie. 
 
 I am an aspiring product designer and a third year Bachelor of Information (B.I.) student at the University of Toronto. 
 
