@@ -1,8 +1,9 @@
-### Hi! Bonjour! Hola! Ciao! My name is Luca Carnegie. 
+### Hi! Bonjour! Hola! Ciao! 
+### My name is Luca Carnegie. 
 
-I am an aspiring product designer and a third year Bachelor of Information (B.I.) student at the University of Toronto. 
+I am an aspiring product designer in my third year at the University of Toronto, studying a Bachelor of Information (B.I.). 
 
-My main interest is UX right now, but I love to dabble in Data Science (I have a background in Economics). I also love feeling smart every now and then by solving problems with electronics, 3D printing, and code. 
+My main interest is UX right now, but I love dabbleing in Data Science (I have a background in Economics). I also love feeling smart every now and then by solving problems with electronics, 3D printing, and code. 
 
 🈂️ Languages: R, Python, Java, JavaScript, Vue.js, Arduino C++, HTML/CSS
 
