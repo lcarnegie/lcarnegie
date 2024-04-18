@@ -7,6 +7,6 @@ My main interest is UX right now, but I love dabbling in Data Science (I have a 
 
 🈂️ Languages: R, Python, Java, JavaScript, Vue.js, Arduino C++, HTML/CSS
 
-🖌️ Check out my UX portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
+🖌️ Check out my Design portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
 
 
