@@ -1,6 +1,6 @@
 ### Hi! My name is Luca Carnegie. 
 
-I am a product designer in my final year at the University of Toronto, studying for a Bachelor of Information (B.I.). 
+I am a product designer and data analyst in my final year at the University of Toronto, studying for a Bachelor of Information (B.I.). 
 
 My main interest is Design right now, but I love exploring and learning Data Science (I have a background in Economics). I also love solving everyday problems with electronics, 3D printing, and code. 
 
