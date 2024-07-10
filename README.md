@@ -4,7 +4,7 @@ I am a product designer and data analyst in my final year at the University of T
 
 My main interest is Design right now, but I love exploring and learning Data Science (I have a background in Economics). I also love solving my everyday annoyances with electronics, 3D printing, and code. 
 
-💾 Programming Languages: R, Python, Java, JavaScript, Vue.js, SQL (novice), Arduino C++, HTML/CSS
+💾 Programming Languages: R, Python, SQL (novice), Java, JavaScript, Arduino, HTML/CSS
 
 🧑🏻 Human Languages: English (native), French (CEFR B2 level), Italian (CEFR A2 level), and Spanish (CEFR A2 level). 
 
