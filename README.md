@@ -10,4 +10,5 @@ I love exploring and learning Product (UI/UX) Design and Data Science (I previou
 
 🖌️ Check out my Design portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
 
+🗣️ Feel free to reach out to me over LinkedIn :)
 
