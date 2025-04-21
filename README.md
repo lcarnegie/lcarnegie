@@ -2,7 +2,7 @@
 
 I am a product designer and data analyst in my final year at the [University of Toronto](https://www.utoronto.ca/), studying for a Bachelor of Information (B.I.) in Information Science/Studies.
 
-I love learning new techniques in Product (UI/UX) Design and Data Science (I previously studied Economics). I also love solving my everyday annoyances with electronics, 3D printing, and code. I also, also love anything to do with music (current obsession: Sam Cooke) and in my free time I play Trombone in the Hart House Jazz Ensemble at the U of T. 
+I enjoy learning new techniques in Product (UI/UX) Design and Data Science (I previously studied Economics). I also love solving my everyday annoyances with electronics, 3D printing, and code when I can. I also, also love anything to do with music (current obsession: Sam Cooke) and in my free time I play Trombone in the Hart House Jazz Ensemble at the U of T. 
 
 💾 Programming Languages: R, Python, SQL (novice), Java, JavaScript, Arduino, HTML/CSS
 
