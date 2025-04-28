@@ -8,7 +8,7 @@ I enjoy learning new techniques in Product (UI/UX) Design and Data Science (I pr
 
 🧑🏻 Human Languages: English (native), French (CEFR B2 level), Italian (CEFR A2 level), and Spanish (CEFR A2 level). 
 
-🖌️ Check out my Design portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
+🖌️ Check out my User Experience Design portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
 
-🗣️ Feel free to reach out to me over LinkedIn :)
+🗣️ Also, feel free to reach out to me over LinkedIn :)
 
