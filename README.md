@@ -10,5 +10,5 @@ I enjoy learning new techniques in Product (UI/UX) Design and Data Science. I al
 
 🖌️ Check out my User Experience Design portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
 
-🗣️ Also, feel free to reach out to me over LinkedIn :)
+🗣️ Feel free to reach out to me over [LinkedIn](http://linkedin.com/in/lucacarnegie) - always happy to chat!
 
