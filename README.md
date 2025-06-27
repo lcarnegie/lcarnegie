@@ -1,8 +1,8 @@
 ### Hi! My name is Luca Carnegie. 
 
-I am a product designer and data analyst in my final year at the [University of Toronto](https://www.utoronto.ca/), studying for a Bachelor of Information (BI) in Informatics/Information Studies.
+I am a product designer and data analyst. I graduated from the [University of Toronto](https://www.utoronto.ca/), where I studied a Bachelor of Information (BI) in Informatics/Information Studies, with extra coursework in Economics (yay math!).
 
-I enjoy learning new techniques in Product (UI/UX) Design and Data Science (I previously studied Economics). I also love solving my everyday annoyances with electronics, 3D printing, and code when I can. I also, also love anything to do with music (currently: Sam Cooke) and in my free time I play Trombone in the Hart House Jazz Ensemble at the U of T. 
+I enjoy learning new techniques in Product (UI/UX) Design and Data Science. I also love solving my everyday annoyances with electronics, 3D printing, and code when I can. I also love anything to do with music (currently: Sam Cooke) and in my free time I play Trombone and try to write my own songs. 
 
 💾 Programming Languages: R, Python, SQL (novice), Java, JavaScript, Arduino, HTML/CSS
 
