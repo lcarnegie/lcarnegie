@@ -1,10 +1,8 @@
-### Hi! My name is Luca Carnegie. 
+I'm a data analyst and product designer. I studied a Bachelor of Information at the [University of Toronto](https://www.utoronto.ca/), with an emphasis on Data Science and User Experience Design, along with modules in Economics/Business/Computer Science. I'm very passionate about Large Language Models and how they can facilitate communicating complex data to wide audiences.
 
-I am a data analyst and product designer. I graduated from the [University of Toronto](https://www.utoronto.ca/)'s Bachelor of Information program, where I studied Design, Data Science and Technology Policy, with some courses in Economics. This makes me both able to be a, effective technical contributor to teams and gave me good practice in communicating complex, interdisciplinary topics to people in an accessible way. I've currently been working a lot on Language Model stuff, which I'm primarily helping the Canadian Urban Institute with at the moment.
+In my free time, I love anything to do with music and in my free time I play Trombone/Piano/Guitar and try to write my own songs (without LLMs). I also like messing around with code to solve my everyday problems.
 
-In my free time, I love solving my everyday problems with electronics, 3D printing, code and LLMs when I can. I also love anything to do with music (currently learning guitar!) and in my free time I play Trombone/Piano/Guitar and try to write my own songs (without LLMs (: ). Bring on the recommendations and requests!
-
-💾 My Tech Stack:
+💾 Tech Stack:
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,7 +14,5 @@ In my free time, I love solving my everyday problems with electronics, 3D printi
 
 🧑🏻 Languages I speak: English (native), French (CEFR B2 level), Italian (CEFR A2 level), and Spanish (CEFR A2 level). 
 
-🖌️ Check out my User Experience Design portfolio at: [lucacarnegie.super.site](https://lucacarnegie.super.site/)
-
-🗣️ Feel free to reach out to me over [LinkedIn](http://linkedin.com/in/lucacarnegie) - always happy to chat!
+🗣️ Feel free to reach out to me at lucacarnegie ~AT~ outlook ~DOT~ com.
 
