@@ -1,4 +1,4 @@
-I'm a data analyst and product designer. I earned a Bachelor of Information at the [University of Toronto](https://www.utoronto.ca/), with an emphasis in Data Science and HCI, with additional training in Economics, Management, and Computer Science. I'm very passionate about Large Language Models and how they can facilitate communicating complex ideas to wide audiences.
+I'm a data analyst and product designer. I earned a Bachelor of Information at the [University of Toronto](https://www.utoronto.ca/), with an emphasis in Data Science and HCI, with additional coursework in Economics, Management, and Computer Science. I'm very passionate about Large Language Models and how they can facilitate communicating complex ideas to wide audiences.
 
 In my free time, I love anything to do with music, drame and performance, and in my free time I play Trombone/Piano/Guitar and try to write my own songs (without LLMs). I also like messing around with code to solve my everyday problems and explore interesting datasets
 
