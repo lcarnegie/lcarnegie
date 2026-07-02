@@ -15,5 +15,5 @@ In my free time, I love anything to do with music, drama and performance. I play
 
 🧑🏻 Languages I speak: English (native), French (CEFR B2 level), Italian (CEFR A2 level), and Spanish (CEFR A2 level). 
 
-🗣️ Feel free to reach out to me at lucacarnegie ~AT~ outlook ~DOT~ com.
+🗣️ Feel free to reach out on LinkedIn or through my blog!
 
