@@ -1,4 +1,4 @@
-I'm a data analyst and product designer. I earned a [Bachelor of Information](https://archive.is/ck24i) from the [University of Toronto](https://www.utoronto.ca/) in 2025, with an emphasis in Data Science and HCI, and undertook further coursework in Economics, Econometrics and Jazz Trombone.
+I'm a data analyst and product designer. I earned a [Bachelor of Information](https://archive.is/ck24i) from the [University of Toronto](https://www.utoronto.ca/) in 2025, with an emphasis in Data Science and HCI, also taking courses in Economics, Econometrics and Jazz Trombone.
 
 In my free time, I love anything to do with music, drama and performance. I play Trombone/Piano/Guitar and try to write my own songs (without LLMs). I also like messing around with code to solve my everyday problems and explore interesting datasets
 
